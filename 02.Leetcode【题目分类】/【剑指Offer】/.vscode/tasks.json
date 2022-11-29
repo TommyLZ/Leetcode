@@ -11,7 +11,7 @@
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "-I",
-                "E:\\008.repository\\Leetcode\\01.MySubmission_ordered",
+                "E:\\008.repository\\Leetcode\\02.Leetcode【题目分类】\\【剑指Offer】",
                 "-std=c++17"
             ],
             "options": {
