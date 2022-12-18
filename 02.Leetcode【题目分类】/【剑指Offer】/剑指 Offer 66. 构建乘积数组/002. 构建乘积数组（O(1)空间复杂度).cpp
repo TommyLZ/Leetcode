@@ -35,13 +35,13 @@ int main() {
     Solution solution;
     vector<int> a = {1, 2, 3, 4, 5, 6};
 
-    vector res = solution.constructArr(a);
+    vector<int> res = solution.constructArr(a);
 
     for (int i = 0; i < a.size(); i++)
     {
        cout << res[i] <<" ";
     }
-    
+
     return 0;
 }
 
